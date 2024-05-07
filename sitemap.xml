@@ -74,24 +74,6 @@
   </url>
   
   <url>
-    <loc>https://wqdream.github.io/personal/bb/index.html</loc>
-    
-    <lastmod>2024-04-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wqdream.github.io/personal/love/index.html</loc>
-    
-    <lastmod>2024-04-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wqdream.github.io/site/census/index.html</loc>
     
     <lastmod>2024-04-14</lastmod>
@@ -110,7 +92,16 @@
   </url>
   
   <url>
-    <loc>https://wqdream.github.io/life/games/index.html</loc>
+    <loc>https://wqdream.github.io/personal/bb/index.html</loc>
+    
+    <lastmod>2024-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wqdream.github.io/personal/love/index.html</loc>
     
     <lastmod>2024-04-14</lastmod>
     
@@ -120,6 +111,15 @@
   
   <url>
     <loc>https://wqdream.github.io/life/music/index.html</loc>
+    
+    <lastmod>2024-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wqdream.github.io/life/games/index.html</loc>
     
     <lastmod>2024-04-14</lastmod>
     
