@@ -3186,8 +3186,10 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     // --default-bg: url(https://gitee.com/wyzqy/pic_wyz/raw/master/img/ndmz.png);
-    --default-bg: url(https://wqdream-blog.oss-cn-nanjing.aliyuncs.com/blog-img/dark_mode.png);
-    --darkmode-bg:url(https://wqdream-blog.oss-cn-nanjing.aliyuncs.com/blog-img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240310125527.jpg);
+    // 风车
+    --default-bg: url(https://pic.imgdb.cn/item/669fba70d9c307b7e928828c.png);
+    // 海绵宝宝
+    --darkmode-bg:url(https://pic.imgdb.cn/item/669fbafdd9c307b7e92946ba.jpg);
     --mobileday-bg: url(https://gitee.com/wyzqy/pic_wyz/raw/master/img/ndmz.png);
     --mobilenight-bg: url(https://gitee.com/wyzqy/pic_wyz/raw/master/img/ndmz.png);
   }`;
